@@ -1,13 +1,5 @@
- #/
- # ==========================================================================
- #                     Filename:     ex001.py
- #                     Description:  Port Checker
- #                     Created:      02.05.2017
- #
- #         Author:  Ümit Öztürk
- #
- # ==========================================================================
- #/
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import ipaddress 		## Adding ipaddress module ▬▶ IP VALIDICATION
 from socket import * 	## Adding socket module	▬▶ SOCKET OPERATION
