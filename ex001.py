@@ -8,6 +8,8 @@
  #
  # ==========================================================================
  #/
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import ipaddress 		## Adding ipaddress module ▬▶ IP VALIDICATION
 from socket import * 	## Adding socket module	▬▶ SOCKET OPERATION
